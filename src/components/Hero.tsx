@@ -13,7 +13,7 @@ export const Hero = () => {
                     </h1>
 
                     <p className="mb-4 text-base md:text-lg text-gray-700">
-                        Welcome to <span className="font-semibold text-blue-600">BugTrackr</span> — your complete bug tracking 
+                        Welcome to <span className="font-semibold text-blue-600">BugTrackr</span> your complete bug tracking 
                         and issue management solution. Built for developers, QA teams, 
                         and modern engineering workflows.
                     </p>
@@ -25,7 +25,7 @@ export const Hero = () => {
                     </p>
 
                     <p className="mb-4 text-base md:text-lg text-gray-700">
-                        Improve your debugging process and ship better features — with 
+                        Improve your debugging process and ship better features, with 
                         fewer surprises.
                     </p>
 
